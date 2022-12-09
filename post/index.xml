@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 21:20:16 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>贺琦2014080911205</title>
+      <link>http://example.org/post/hoki/</link>
+      <pubDate>Sun, 04 Dec 2022 21:20:16 +0800</pubDate>
+      
+      <guid>http://example.org/post/hoki/</guid>
+      <description>欢迎阅读HEQI的Linux大作业！ 老师您好！我是20网安2班的贺琦，学号是2014080911205。下面是我用Markdown语法编写的网站内容。Markdown我之前有听过了解过一点，但这是我第一次使用它编写网站信息，我感觉Markdown十分实用，在以后的学习和工作中我会经常使用到的。下面是我的作业内容。
+1.学习笔记 使用导航栏左边的文件夹图标可以访问文件资源管理器。您可以通过单击文件资源管理器中的 创建文件 图标来创建新文件。您还可以通过单击 创建文件夹 图标来创建文件夹。
+1.1 何为linux 第一节课，主要介绍何为linux系统，以及介绍了linux的优势和功能。超级计算机世界500强全是linux系统，可见linux系统的强悍。还学会了如何去学好这门课，那就是多动手上机实操。
+1.2 文件系统命名 这节课学习了文件系统的命名，通过学习一些简单基础的命令，例如pwd、cd、ls、mkdir、rmdir这些都是属于目录操作命令，除此之外还有touch、cp、mv 、rm等文件操作命令。这些命令都是对文件和目录进行操作的基本命令，是需要熟练掌握的。 后面还学习了搜索文件命令find、which，还有显示文件的多种命令，例如cat、grep、head、tail，但它们都有不一样的效果，cat就是显示、链接文件内容，grep是搜索与字符串匹配的行，head和tail分别是显示头和尾的行。
+1.3 Vim编辑器 vim编辑器是一款具有高效的编辑模式、可扩展性强等优点的编辑器，但是它也有个缺点，那就是比较难。
+使用较多的是G、gg、#gg，因为在编辑时需要快速跳转到首行或者末尾，实用性很高。
+这上面的命令都是使用vim时很常用的命令。
+1.4 进程管理 一般使用ps aux查看所有进程信息。 配合管道和grep命令，查找ssh远程连接相关的进程。 top命令提供了实时的对系统处理器的状态监视
+Ctrl+C：中断正在执行的命令
+Ctrl+Z ：将当前进程挂起，即调入后台并停止执行
+jobs命令：查看处于后台的任务列表
+fg命令（foreground）：将处于后台的进程恢复到前台运行，可以指定要恢复的任务序号
+kill命令：用于终止一个进程
+df -h：是一个常用的命令，用于查看磁盘使用情况
+1.5 用户和权限管理 首先用户分为root用户（超级用户）和普通用户，root用户的权限比普通用户高得多，在系统进行很多命令功能是都需要使用root用户的权限才能完成。
+使用su命令可以在任意用户之间进行切换。 useradd：添加用户命令，useradd+用户名
+passwd：设置用户密码，passwd+用户名
+userdel：删除用户命令，userdel -r +用户名
+使用root权限可以给一些普通用户添加sudo权限 接下来是文件和目录权限，主要分为可读、可写、可执行三个
+可读(r)：允许查看文件内容、显示目录列表
+可写(w)：允许修改文件内容，允许在目录中新建、移动、删除文件或子目录
+可执行(x)：允许运行程序、切换目录
+chmod：可以设置权限，有数字法和字符法
+1.6 管道和重定向 重定向分为输入、输出、错误三种。
+echo命令：用来显示一段文本
+管道：管道可以把一系列命令连接起来，这意味着第一个命令的输出会作为第二个命令的输入通过管道传给第二个命令。
+wc：可以显示行数、单词数和字符数
+选项说明：
+-l:仅显示多少行
+-w:仅显示多少字（英文单词）
+-m:多少字符
+xargs：命令传递参数的一个过滤器。将输入中的换行、多个连续空格替换成单个空格。默认执行echo。
+1.7 系统管理 ** htop**：是一个比top命令更好用的进程查看器
+防火墙：（ubuntu系统）
+查看防火墙状态: sudo ufw status</description>
+    </item>
+    
+  </channel>
+</rss>
