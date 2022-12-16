@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://Hoki94.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 21:20:16 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 21:20:16 +0800</lastBuildDate><atom:link href="https://Hoki94.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>贺琦2014080911205</title>
-      <link>http://example.org/post/hoki/</link>
+      <link>https://Hoki94.github.io/post/hoki/</link>
       <pubDate>Sun, 04 Dec 2022 21:20:16 +0800</pubDate>
       
-      <guid>http://example.org/post/hoki/</guid>
+      <guid>https://Hoki94.github.io/post/hoki/</guid>
       <description>欢迎阅读HEQI的Linux大作业！ 老师您好！我是20网安2班的贺琦，学号是2014080911205。下面是我用Markdown语法编写的网站内容。Markdown我之前有听过了解过一点，但这是我第一次使用它编写网站信息，我感觉Markdown十分实用，在以后的学习和工作中我会经常使用到的。下面是我的作业内容。
 1.学习笔记 使用导航栏左边的文件夹图标可以访问文件资源管理器。您可以通过单击文件资源管理器中的 创建文件 图标来创建新文件。您还可以通过单击 创建文件夹 图标来创建文件夹。
 1.1 何为linux 第一节课，主要介绍何为linux系统，以及介绍了linux的优势和功能。超级计算机世界500强全是linux系统，可见linux系统的强悍。还学会了如何去学好这门课，那就是多动手上机实操。
